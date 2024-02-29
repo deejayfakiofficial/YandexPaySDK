@@ -23,8 +23,8 @@ let package = Package(
         // Targets can depend on other targets in this package, and on products in packages this package depends on.
         .binaryTarget(
             name: "YandexPaySDK",
-            url: "https://yandexpay-ios-sdk.s3.yandex.net/1.5.3/YandexPaySDK.xcframework.zip",
-            checksum: "36d683c873d92ef2855ebca5db552ba60d06e7ba58b6fb6eedbfcbe9fd6505d0"
+            url: "https://yandexpay-ios-sdk.s3.yandex.net/1.5.4/YandexPaySDK.xcframework.zip",
+            checksum: "e5cf9f495019e2c75a45489d2072e195aa6203c18b72dbc8852b5030e660bc4d"
         ),
     ]
 )
